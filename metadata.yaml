@@ -1,0 +1,27 @@
+_repo: The-Record-of-a-Regiment-of-the-LineRegiment-during-the-Boer-War-1899-1902_15972
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Jacson, Mainwaring George
+    gutenberg_agent_id: '6402'
+    url: http://www.gutenberg.org/2009/agents/6402
+description: ''
+gutenberg_bookshelf: Boer War
+gutenberg_issued: '2005-06-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15972'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DT'
+- !lcsh 'South African War, 1899-1902 -- Regimental histories -- Great Britain'
+- !lcsh 'Great Britain. Army -- Infantry. Devonsire Regiment (1st Battalion)'
+title: "The Record of a Regiment of the Line\r\nBeing a Regimental History of the\
+  \ 1st Battalion Devonshire Regiment during the Boer War 1899-1902"
+url: http://www.gutenberg.org/ebooks/15972
