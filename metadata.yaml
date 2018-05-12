@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '6402'
     url: http://www.gutenberg.org/2009/agents/6402
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15972#The-Record-of-a-Regiment-of-the-LineRegiment-during-the-Boer-War-1899-1902
 gutenberg_bookshelf: Boer War
 gutenberg_issued: '2005-06-03'
 gutenberg_type: Text
